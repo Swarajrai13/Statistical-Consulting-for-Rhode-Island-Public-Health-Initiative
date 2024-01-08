@@ -10,8 +10,11 @@ This would in turn lead to regression and other statistical analysis to determin
 ## Disclaimer:
 Whilst the findings of this project cannot be disclosed due to the signing of an NDA, this 3-month long venture into the non-profit world aims to optimize the function of this business of eradicating food insecurity in the state of Rhode Island, and I'm glad data was able to be of use.
 
-## Navigating:
--In this repository, you'll find that the .do files (Stata format) in this repository are examples of data management processes used in this project. T
--Team4_FinalReport2023(redactedinfo).pdf: The final written report as a PDF (confidential data marked out)
--The final presentation shown to stakeholders at the end of the project term- included as a Microsoft PowerPoint.
+## In this repository, you'll find:
+-*4x .do files (Stata format)*: in this repository are examples of data management processes used in this project.
+
+-*Team4_FinalReport2023(redactedinfo).pdf*: The final written report as a PDF (confidential data marked out)
+
+-*RIPHI Team4 Final Presentation.pptx*: The final presentation shown to stakeholders at the end of the project term- included as a Microsoft PowerPoint.
+
 Note: Unfortunately, the original datasets cannot be included due to the NDA signed.
