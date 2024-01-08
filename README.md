@@ -12,6 +12,6 @@ Whilst the findings of this project cannot be disclosed due to the signing of an
 
 ## Navigating:
 -In this repository, you'll find that the .do files (Stata format) in this repository are examples of data management processes used in this project. T
--The final written report as a PDF (confidential data marked out)
+-Team4_FinalReport2023(redactedinfo).pdf: The final written report as a PDF (confidential data marked out)
 -The final presentation shown to stakeholders at the end of the project term- included as a Microsoft PowerPoint.
 Note: Unfortunately, the original datasets cannot be included due to the NDA signed.
