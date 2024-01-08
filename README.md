@@ -7,6 +7,11 @@ Our primary goal for this project was to combine the quantitative data of spendi
 
 This would in turn lead to regression and other statistical analysis to determine food security aggregates across various ranges of expenditure at the program, whilst controlling for key demographic variables like age, household size, and physical activity.
 
+## Disclaimer:
 Whilst the findings of this project cannot be disclosed due to the signing of an NDA, this 3-month long venture into the non-profit world aims to optimize the function of this business of eradicating food insecurity in the state of Rhode Island, and I'm glad data was able to be of use.
 
-In this repository, you'll find the .dta files (Stata format) used in this project, the final written report (confidential data marked out), and the final presentation shown to stakeholders at the end of the project term. Unfortunately, the original datasets cannot be included due to the NDA signed.
+## Navigating:
+-In this repository, you'll find that the .do files (Stata format) in this repository are examples of data management processes used in this project. T
+-The final written report as a PDF (confidential data marked out)
+-The final presentation shown to stakeholders at the end of the project term- included as a Microsoft PowerPoint.
+Note: Unfortunately, the original datasets cannot be included due to the NDA signed.
